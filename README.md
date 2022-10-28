@@ -13,9 +13,9 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br\>
 
-Apaixonado por programação e tecnologia. Futuro Desenvolvedor Full Stack.
-
 ## Contato 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.mdnd@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremaldonado1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrelomaldonado/)
+
+Apaixonado por programação e tecnologia. Futuro Desenvolvedor Full Stack.
