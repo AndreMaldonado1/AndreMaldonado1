@@ -1,8 +1,6 @@
 
-### Olá! Eu sou o André Maldonado 🙃
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremaldonado1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrelomaldonado/)
+### <h2 align="center"> Hello World! </h2>
+### <h2 align="center"> I'm André Maldonado </h2> 
 
 ![AndreMaldonado1 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMaldonado1&show_icons=true&theme=onedark)
 
@@ -18,6 +16,6 @@
 Apaixonado por programação e tecnologia. Futuro Desenvolvedor Full Stack.
 
 ## Contato 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() 
-
-andre.mdnd@gmail.com
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.mdnd@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremaldonado1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrelomaldonado/)
