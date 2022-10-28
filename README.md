@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremaldonado1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrelomaldonado/)
 
-![AndreMaldonado1 GitHub stats](https://github-readme-stats.vercel.app/api?username=sirdark183&show_icons=true&theme=onedark)
+![AndreMaldonado1 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMaldonado1&show_icons=true&theme=onedark)
 
 ## Tecnologias que possuo conhecimento!
 
