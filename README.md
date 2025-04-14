@@ -1,5 +1,4 @@
-### <h2 align="center"> Hello World! 👋 </h2>
-### <h2 align="center"> I'm André Maldonado </h2> 
+### <h2 align="center"> Hello World! Sou o André 👋 </h2>
 
 ## 🙋‍♂️ Sobre Mim
 
