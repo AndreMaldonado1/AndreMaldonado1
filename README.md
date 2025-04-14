@@ -1,12 +1,27 @@
-### <h2 align="center"> Hello World! </h2>
+### <h2 align="center"> Hello World! 👋 </h2>
 ### <h2 align="center"> I'm André Maldonado </h2> 
+
+## 🙋‍♂️ Sobre Mim
+
+Formado em Ciência da Computação, Analista de Dados Sênior e estudante (apaixonado) de Engenharia de Dados 🚀  
+Trabalho com dados o dia todo — limpando, transformando, modelando e, claro, brigando com eles quando insistem em não colaborar 😅
+
+- 📊 Power BI + DAX ninja: dashboards interativos, medidas avançadas, e aquele toque visual que agrada até o mais exigente dos gestores.  
+- 🛠️ Pipelines ETL, Data Warehousing e SQL: organizando o caos dos dados desde antes do café da manhã.  
+- 🐍 Python na veia: automação, análise, scripts e mais scripts.  
+- 🤖 RPA com Power Automate: menos cliques, mais eficiência.  
+- 🌍 QGIS na jogada: análise geoespacial para logística e planejamento com visão de mapa (literalmente).  
+- 📚 Estudando Engenharia de Dados porque os dados não dormem e a gente também não.
+
+Curioso por natureza, obcecado por soluções simples e eficazes. E sim, eu realmente fico feliz quando um `JOIN` funciona de primeira.  
+
+---
 
 ![AndreMaldonado1 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMaldonado1&show_icons=true&theme=onedark)
 
-## Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-    <!-- Linguagens e tecnologias -->
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="DAX" src="https://img.shields.io/badge/DAX-FF4F00?style=for-the-badge&logo=powerbi&logoColor=white" />
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -14,11 +29,7 @@
     <img align="center" alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </div><br>
 
-## Sobre Mim
-
-Sou um apaixonado por programação e tecnologia. Comecei minha jornada como estudante no primeiro semestre e evoluí para Analista de Dados Sênior, atualmente também estudando Engenharia de Dados. Meu foco é transformar dados em insights estratégicos e desenvolver soluções escaláveis.
-
-## Contato
+## 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.mdnd@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremaldonado1/)
@@ -26,6 +37,4 @@ Sou um apaixonado por programação e tecnologia. Comecei minha jornada como est
 
 ---
 
-> _"Transformar dados em insights é a chave para inovar e tomar decisões acertadas."_ 
-
-Sinta-se à vontade para explorar meu perfil e conhecer um pouco mais sobre os projetos e desafios que tenho enfrentado nesta jornada.
+> _"Dados não mentem... mas às vezes escondem a verdade até você fazer o join certo."_ 🧠📊
